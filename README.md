@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently studying the Harvard's CS50 Intruduction to Computer Science, and Introduction to programming with Python courses. I've also recently started a 10  day Intensive Coding Course at Alura.
 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any begginer friendly projects that may increase my knowledge and experience with coding and computer science in general.
 
 - 📫 How to reach me:
 
