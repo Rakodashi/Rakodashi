@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Rakodashi, or Rafa if you prefer! I use they/them and she/her pronouns. I'm a 24 year old Graphic Designer, and I've recently been studying programming because I'm looking to work more towards this area.
+- 👋 Hi, I’m @Rakodashi, or Rafa if you prefer! I use they/them and she/her pronouns. I'm a 24 year old Graphic Designer, and I've recently been studying programming because I'm looking to work more towards this area. My main focus at this moment are the front-end/web development areas.
 
 - 👀 I’m interested in Computer Science, programming in Python, C, SQL, JavaScript, CSS, HTML & UI/UX.
 
-- 🌱 I’m currently studying the Harvard's CS50 Intruduction to Computer Science, and Introduction to programming with Python courses. I've also recently started a 10  day Intensive Coding Course at Alura.
+- 🌱 I’m currently studying the Harvard's CS50 Intruduction to Computer Science, and Introduction to programming with Python courses. I've completed a 10  day Intensive Coding Course at Alura and I'm currently learning all the basics for Web Development.
 
 - 💞️ I’m looking to collaborate on any begginer-friendly projects that may increase my knowledge and experience with coding and computer science in general.
 
