@@ -4,7 +4,7 @@
 
 ✨ I’m interested in Front-End, Web Dev, Computer Science, programming in HTML, CSS, JavaScript, React, Python, C, SQL, and some others.
 
-🌱 I’m currently getting deeper into the React Framework, SEO and other webdev related subjects. I've also been studying the Harvard's CS50 Intruduction to Computer Science, and Introduction to programming with Python courses. I've also completed a 10-day Intensive Coding Course at Alura building projects.
+🌱 I’m currently getting deeper into the React Framework, SEO and other webdev related subjects. I've been studying the Harvard's CS50 Intruduction to Computer Science, and Introduction to programming with Python courses. I've also completed a 10-day Intensive Coding Course at Alura building projects.
 
 <div>
   <a href="https://github.com/Rakodashi">
