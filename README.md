@@ -40,4 +40,7 @@
     <a href="mailto:rafaconrado1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://ko-fi.com/rakodashi#changeCoverImageModal" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank"></a>
   </div>
-  ![Snake animation](https://github.com/Rakodashi/Rakodashi/blob/output/github-contribution-grid-snake.svg)
+  <div>
+<!--   ![Snake animation](https://github.com/Rakodashi/Rakodashi/blob/output/github-contribution-grid-snake.svg) -->
+    https://github.com/Rakodashi/Rakodashi/blob/d38fb487e77147b2be63d3006845f0918823f3df/.github/workflows/snake.yml
+  </div>
