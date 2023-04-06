@@ -1,6 +1,4 @@
-# 🖖🏻 Hey there! I'm Rafaela Conrado
-
-🟢 pronouns: she/her, they/them.
+# 🖖🏻 Hey there! I'm Rafaela
 
 ✍🏻 I'm a Graphic Designer, and I've been studying programming for about a year now. My main focus at this moment are the Front-End/Web Development areas.
 
