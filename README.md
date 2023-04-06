@@ -45,7 +45,6 @@
               ">
       <img src="https://www.flaticon.com/free-icon/artstation_5968654?term=artstation&related_id=5968666&origin=search">
       ArtStation</button>
-    
     ![Snake animation](https://github.com/Rakodashi/Rakodashi/blob/output/github-contribution-grid-snake.svg)
 
 <!--    <a href="" target="_blank"><img src="" target="_blank"></a> -->
