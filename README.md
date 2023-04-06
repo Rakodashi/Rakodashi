@@ -39,12 +39,6 @@
     <a href="https://www.instagram.com/lyokonrado/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="mailto:rafaconrado1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://ko-fi.com/rakodashi#changeCoverImageModal" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank"></a>
-    <a href="https://www.artstation.com/lyokonrado/albums/all" height="30" width="40" 
-       style="background-color: #13aff0;
-              color: white;
-              ">
-      <img src="https://www.flaticon.com/free-icon/artstation_5968654?term=artstation&related_id=5968666&origin=search">
-      ArtStation</button>
     ![Snake animation](https://github.com/Rakodashi/Rakodashi/blob/output/github-contribution-grid-snake.svg)
 
 <!--    <a href="" target="_blank"><img src="" target="_blank"></a> -->
