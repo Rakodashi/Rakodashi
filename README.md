@@ -2,7 +2,7 @@
 
 ✍🏻 I'm a Graphic Designer, and I've been studying programming for about a year now. My main focus at this moment are the Front-End/Web Development areas.
 
-✨ I’m interested in Front-End, Web Dev, Computer Science, programming in HTML, CSS, JavaScript, React, Python, C, SQL, and some others.
+✨ I’m interested in Front-End Web Devopment, programming in HTML, CSS, JavaScript, React, Python, C, SQL, and some others.
 
 🌱 I’m currently getting deeper into the React Framework, SEO and other webdev related subjects. I've been studying the Harvard's CS50 Intruduction to Computer Science, and Introduction to programming with Python courses. I've also completed a 10-day Intensive Coding Course at Alura building projects.
 
