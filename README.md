@@ -8,8 +8,8 @@
 
 <div>
   <a href="https://github.com/Rakodashi">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Rakodashi&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakodashi&layout=compact&langs_count=16&theme=ocean_dark"/>
+    <img height="180cm" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rakodashi&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+    <img height="180cm" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rakodashi&layout=compact&langs_count=16&theme=ocean_dark"/>
 </div>
   
   <br>
