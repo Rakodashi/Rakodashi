@@ -8,7 +8,7 @@
 
 <div>
   <a href="https://github.com/Rakodashi">
-    <img height="180cm" width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rakodashi&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&bg_color=00000000"/>
+    <img height="190cm" width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rakodashi&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&bg_color=00000000"/>
     <img height="180cm" width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rakodashi&layout=compact&langs_count=16&theme=cobalt&bg_color=00000000"/>
 </div>
   
