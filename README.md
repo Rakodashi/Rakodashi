@@ -7,7 +7,7 @@
 🌱 I’m currently getting deeper into the React Framework, SEO and other webdev related subjects. I've been studying the Harvard's CS50 Intruduction to Computer Science, and Introduction to programming with Python courses. I've also completed a 10-day Intensive Coding Course at Alura building projects.
 
 <div>
-    <a href="https://github.com/Rakodashi">
+    <a href="https://github.com/Rakodashi" width="100%">
     <img height="180cm" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rakodashi&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&bg_color=00000000"/>
     <img height="180cm"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rakodashi&layout=compact&langs_count=16&theme=cobalt&bg_color=00000000"/>
 </div>
