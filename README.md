@@ -39,5 +39,5 @@
     <a href="https://ko-fi.com/rakodashi#changeCoverImageModal" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
   </div>
 
-  ![Snake animation](https://github.com/Rakodashi/Rakodashi/blob/output/github-contribution-grid-snake.svg)
+ <!-- ![Snake animation](https://github.com/Rakodashi/Rakodashi/blob/output/github-contribution-grid-snake.svg) -->
 
